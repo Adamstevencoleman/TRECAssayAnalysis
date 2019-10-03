@@ -1,0 +1,9 @@
+#this code is to import and visualize a data file
+
+import pandas as pd
+
+
+rundata = pd.read_csv('20190917_04O - Initial 259N4.txt')
+
+print('Hello world! This is me.')
+
